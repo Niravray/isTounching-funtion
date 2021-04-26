@@ -1,2 +1,2 @@
-# isTounching-funtion
-isTounching funtion
+# collisionAlgorithm
+Algorithm to detect collision between two objects
